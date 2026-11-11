@@ -1,0 +1,14 @@
+1) Mensagem original assinada
+   mensagem:   Transferir R$ 100,00 para a conta A
+   assinatura: ORIZhNWD5J5iXJtpqh8/sG/Abu01PJBK...
+   verificação: VÁLIDA
+
+2) Mensagem adulterada (valor mudou)
+   mensagem:   Transferir R$ 9000,00 para a conta B
+   verificação: INVÁLIDA
+
+3) Assinatura adulterada (1 caractere trocado)
+   verificação: INVÁLIDA
+
+4) Chave pública de OUTRA pessoa (falso remetente)
+   verificação: INVÁLIDA

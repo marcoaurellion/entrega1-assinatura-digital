@@ -1,0 +1,16 @@
+test_acentos_e_unicode (__main__.TestAssinatura.test_acentos_e_unicode) ... ok
+test_algoritmo_diferente_rejeitado (__main__.TestAssinatura.test_algoritmo_diferente_rejeitado) ... ok
+test_assinatura_adulterada (__main__.TestAssinatura.test_assinatura_adulterada) ... ok
+test_assinatura_valida (__main__.TestAssinatura.test_assinatura_valida) ... ok
+test_chave_publica_errada (__main__.TestAssinatura.test_chave_publica_errada) ... ok
+test_envelope_malformado (__main__.TestAssinatura.test_envelope_malformado) ... ok
+test_mensagem_adulterada (__main__.TestAssinatura.test_mensagem_adulterada) ... ok
+test_permissao_da_privada (__main__.TestAssinatura.test_permissao_da_privada) ... ok
+test_privada_gravada_cifrada (__main__.TestAssinatura.test_privada_gravada_cifrada) ... ok
+test_senha_errada_nao_abre_privada (__main__.TestAssinatura.test_senha_errada_nao_abre_privada) ... ok
+test_senha_vazia_recusada (__main__.TestAssinatura.test_senha_vazia_recusada) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.064s
+
+OK

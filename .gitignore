@@ -1,0 +1,4 @@
+chaves/
+*.pem
+__pycache__/
+mensagem.json
